@@ -1,0 +1,3 @@
+﻿  c.c
+c:\users\ddori\documents\visual studio 2015\projects\subject2_2\subject2_2\c.c(31): warning C4098: 'my_strncpy': 'void' 함수에서 값을 반환하고 있습니다.
+  subject2_2.vcxproj -> C:\Users\ddori\Documents\Visual Studio 2015\Projects\subject2_2\Debug\subject2_2.exe

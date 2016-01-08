@@ -1,0 +1,5 @@
+﻿  c.c
+c:\users\ddori\documents\visual studio 2015\projects\subject2_1\subject2_1\c.c(36): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\ddori\documents\visual studio 2015\projects\subject2_1\subject2_1\c.c(37): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\ddori\documents\visual studio 2015\projects\subject2_1\subject2_1\c.c(32): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  subject2_1.vcxproj -> C:\Users\ddori\Documents\Visual Studio 2015\Projects\subject2_1\Debug\subject2_1.exe
